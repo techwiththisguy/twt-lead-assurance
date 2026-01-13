@@ -53,6 +53,14 @@ TWT Lead Assurance solves this by:
 
 ---
 
+## Status
+
+Production-ready.
+
+This project is actively developed and intended to be deployed as a reusable lead intake platform for small service-based businesses.
+
+---
+
 ## Setup & Run Locally
 
 ```bash
@@ -65,11 +73,3 @@ pip install -r requirements.txt
 
 # Run the app
 python run.py
-
----
-
-## Status
-
-Production-ready.
-
-This project is actively developed and intended to be deployed as a reusable lead intake platform for small service-based businesses.
